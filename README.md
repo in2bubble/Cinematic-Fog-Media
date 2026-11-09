@@ -1,15 +1,10 @@
-# Oxygen Atmosphere - Media Repository
+# [Cinematic Fog] — Media Assets
 
-This repository hosts official media assets for the **Oxygen Atmosphere** shader project.
+Official media and assets repository for **[Cinematic Fog]**.
 
----
-
-### 🔗 Project Links
-* **Modrinth:** [Oxygen Atmosphere](https://modrinth.com/project/oxygen-atmosphere)
-* **CurseForge:** [Oxygen Atmosphere](https://www.curseforge.com/minecraft/shaders/oxygen-atmosphere)
+## 🔗 Links
+- [CurseForge]()
+- [Modrinth]()
 
 ---
-
-### ⚠️ License & Copyright
-All media files in this repository are **Copyright (c) 2026 in2bubble. All Rights Reserved.**  
-No assets may be copied, redistributed, or used without explicit permission.
+*NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.*
